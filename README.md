@@ -39,10 +39,10 @@ This project visualizes sales performance across various retail markets using an
 ## Power BI Dashboards
 
 ### Key Insights  
-![Key Insights](dashboard-images/key-insights.png)
+![Key Insights](images/key-insight.png)
 
 ### Profit Analysis  
-![Profit Analysis](dashboard-images/profit-analysis.png)
+![Profit Analysis](images/profit-analysis.png)
 
 ### Performance Analysis  
-![Performance Analysis](dashboard-images/performance-analysis.png)
+![Performance Analysis](images/performance-analysis.png)
