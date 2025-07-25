@@ -35,3 +35,14 @@ This project visualizes sales performance across various retail markets using an
 - **Electriciastica Stores** contributes ~15% of total revenue, leading all markets
 - Profit % trends downward from Jan to Jun 2020 despite steady revenue
 - Several store types have negative or very low profit margins, requiring performance review
+
+## Power BI Dashboards
+
+### Key Insights  
+![Key Insights](dashboard-images/key-insights.png)
+
+### Profit Analysis  
+![Profit Analysis](dashboard-images/profit-analysis.png)
+
+### Performance Analysis  
+![Performance Analysis](dashboard-images/performance-analysis.png)
